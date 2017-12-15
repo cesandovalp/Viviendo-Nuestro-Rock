@@ -4,7 +4,7 @@
 
 # Luthier by default
 
-
+[![We are the champions](https://cesandovalp.github.io/Viviendo-Nuestro-Rock/WeAreTheChampions.jpeg)]
 
 > 21. Cristian Camilo Otálvaro Girald (u600109@unimilitar.edu.co)
 > 22. Isabel Cristina Rosero Ortiz (isarocort@gmail.com)
