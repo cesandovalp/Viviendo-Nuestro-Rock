@@ -2,7 +2,7 @@
 
 > Aplicación diseñada, desarrollada y desplegada durante el Hackatón "BibloRock: una historia 3.0 de Rock al parque" durante el 13 y 14 de Diciembre de 2017.
 
-# Luthier by default
+# Luthiers by default
 
 ![We are the champions](https://cesandovalp.github.io/Viviendo-Nuestro-Rock/WeAreTheChampions.jpeg)
 
