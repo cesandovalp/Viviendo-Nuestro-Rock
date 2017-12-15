@@ -6,7 +6,7 @@
 
 ![We are the champions](https://cesandovalp.github.io/Viviendo-Nuestro-Rock/WeAreTheChampions.jpeg)
 
-> 21. Cristian Camilo Otálvaro Girald (u600109@unimilitar.edu.co)
+> 21. Cristian Camilo Otálvaro Girald (u6000109@unimilitar.edu.co)
 > 22. Isabel Cristina Rosero Ortiz (isarocort@gmail.com)
 > 23. Cristian Eduardo Sandoval Pineda (sandovalp.ce@gmail.com)
 > 24. Juan David Castañeda Pineda. (vidcas77@gmail.com)
